@@ -1,1 +1,1 @@
-# ivank
+print("Hello, world")
