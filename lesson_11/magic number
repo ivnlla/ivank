@@ -1,0 +1,8 @@
+intended_number = (1, 10)
+result = intended_number + 2
+result -= 1
+result +=2
+result +=1
+result +=2
+result -= intended_number
+print("result:", result)  
