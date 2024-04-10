@@ -1,0 +1,6 @@
+word = input('Enter a word')
+new_word = ''
+for x in word:
+    new_word = new_word+x
+    new_word+=str(ord(x))
+    print(f'new_word={new_word}')
